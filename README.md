@@ -48,7 +48,7 @@ Schurischuster, S., Zambanini, S., Kampel, M. and Lamp, B., 2016, December. Sens
 ## Usage
 
 The overall dataset is organized as presented in the `sample` directory with sub-folders: `train`, `test` and `val`.
-Each of the sub-folders provides a `gt_one.csv` holding the manual annotations in the csv format for each line
+Each of the sub-folders provides a `gt.csv` holding the manual annotations in the csv format for each line
 
 ```
 [path_to_image_file] [label] [bounding_box_coordinate_top_left_0] [bounding_box_coordinate bottom_right_0] bounding_box_coordinate_top_left_1] [bounding_box_coordinate bottom_right_1] ... [bounding_box_coordinate_top_left_n] [bounding_box_coordinate bottom_right_n]
