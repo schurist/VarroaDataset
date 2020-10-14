@@ -56,4 +56,23 @@ Each of the sub-folders provides a `gt.csv` holding the manual annotations in th
 
 ## Download
 
-Full download links will be provided soon.
+The dataset is published on [Zenodo](https://doi.org/10.5281/zenodo.4085044).
+
+## Cite
+
+If you consider using this dataset, please site the following:
+
+Schurischuster Stefan, & Martin Kampel. (2020). VarroaDataset [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4085043
+
+```bibtex
+@dataset{schurischuster_stefan_2020_4085043,
+  author       = {Schurischuster Stefan and
+                  Martin Kampel},
+  title        = {VarroaDataset},
+  month        = oct,
+  year         = 2020,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.4085043},
+  url          = {https://doi.org/10.5281/zenodo.4085043}
+}
+```
